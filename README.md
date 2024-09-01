@@ -1,5 +1,6 @@
 # Dolphin-AI
 This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your API Key. Please see the demo video below. 
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4uMNRiWfJYo/0.jpg)](https://www.youtube.com/watch?v=4uMNRiWfJYo)
 
 ## How to install
