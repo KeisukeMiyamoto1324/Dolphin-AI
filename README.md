@@ -22,3 +22,4 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
 2. You can enter your prompt in the prompt box in the bottom of the window. You can also use image to chat with the assistant.
 
 
+### Currently identified problems
