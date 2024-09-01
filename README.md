@@ -10,3 +10,4 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
     - If you see a warning window, click "OK", then right click Dolphin AI.app, select "Open". You will see a different warming window, then click "Open".
 
 ## How to use
+1. You need OpenAI API key because this app uses GPT-4o. If you don't have API key, you can get it from [here](https://openai.com/index/openai-api/).
