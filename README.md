@@ -23,7 +23,7 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
    1. Click "Chat setting" in the upper right corner of the window.
    2. Enter the role you would like your assistant to play in the text box. For example, if you want your assistant to teach you about programming, type “You are a very good programmer” and so on.
    3. Click "Done" to complete.
-4. You can enter your prompt in the prompt box in the bottom of the window. You can also use image to chat with the assistant.
+4. You can enter your prompt in the prompt box in the bottom of the window. You can also use images to chat with the assistant.
 
 
 ## Upcoming features
