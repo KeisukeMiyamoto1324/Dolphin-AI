@@ -22,10 +22,10 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
 2. You can enter your prompt in the prompt box in the bottom of the window. You can also use image to chat with the assistant.
 
 
+## Upcoming features
+- Chat with a PDF
+
 ## Currently identified problems (09/01/2024)
 - The assistant's response speed slows down when images are used during a chat.
 - Cannot answer based on Youtube video. (This problem is most likely due to the fact that Youtube now blocks access from AWS-based servers.)
 
-
-## Upcoming features
-- Chat with a PDF
