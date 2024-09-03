@@ -3,6 +3,13 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4uMNRiWfJYo/0.jpg)](https://www.youtube.com/watch?v=4uMNRiWfJYo)
 
+
+## Used tech
+- Figma, Xcode, Visual Studio Code
+- Swift and SwiftUI on the front end
+- Python(Flask) on the back end
+- Vercel for building API servers
+  
 ## How to install
 1. Go to green "<> Code" button, then click "Download ZIP".
 2. Unzip the zip file and double-click the Dolphin AI.dmg file to open it.
