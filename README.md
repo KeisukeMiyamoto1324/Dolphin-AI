@@ -37,8 +37,8 @@ This is an AI assistant app for MacOS. You can chat with OpenAI GPT-4o with your
 ## Upcoming features
 - Chat with a PDF
 
-## Currently identified problems (09/03/2024)
-- The assistant's response speed slows down when images are used during a chat.
+## Currently identified problems (09/17/2024)
+- System role cannot be changed once it's set up.
 - Sometimes the app crashes when it tries to generate a title of a chat.
 - Cannot answer based on Youtube video. (This problem is most likely due to the fact that Youtube now blocks access from AWS-based servers.)
 
